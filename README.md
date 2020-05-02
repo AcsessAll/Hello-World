@@ -1,10 +1,6 @@
 # Hello-World
-This is a new start
-
-The using of Github is not simple!
-This is not good!
-I do not like this!
 
 
+Mingyu_Zhang
+this is a test of GitHub
 
-Hello my friend.
